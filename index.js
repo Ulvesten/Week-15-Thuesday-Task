@@ -1,4 +1,4 @@
-const element = document.querySelector('div');
+const element = document.querySelector('.students');
 
 element.addEventListener('click', (event) => {
     element.style.backgroundColor = 'black';
