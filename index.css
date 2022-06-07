@@ -1,10 +1,11 @@
 body {
-    height: 100vh;
-    margin: 0px;
-    padding: 50px;
-    background-color: #ececec;
+  height: 100vh;
+  margin: 0px;
+  padding: 50px;
+  background-color: #ececec;
+  color: #fff;
 }
 
 .students {
-    background-color: #2d2d2d;
+  background-color: #2d2d2d;
 }
